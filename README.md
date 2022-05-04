@@ -36,7 +36,7 @@ This application is an interview calendar API. It implements endpoints for
 
 ### Setup:
 
-- To run the application, execute the following command. But make sure you have java installed in the system
+- To run the application, execute the following command. The jar file is placed under directory executable_jar, but make sure you have java installed in the system
   -  java -jar java-tech-challenge-tammana-1.0-SNAPSHOT.jar
 - For source code, clone project using (_**git clone https://github.com/mithildobarkar/InterviewCalendarApi.git**_)
 - Open terminal in the project folder
